@@ -1,8 +1,8 @@
 {
     "weblate": {
-        "hello": "Hello, world!\n",
-        "orangutan": "Orangutan has %d banana.\n",
+        "hello": "Hello world!\n",
+        "orangutan": "Orangutan hasn't got %d banana.\n",
         "try": "Try Weblate at https://demo.weblate.org/!\n",
-        "thanks": "Thank you for using Weblate."
+        "thanks": "Thank you for using our Weblate."
     }
 }
