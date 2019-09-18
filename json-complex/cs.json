@@ -1,18 +1,10 @@
 {
-    "hello": {
-        "message": "",
-        "description": "Hello word message"
-    },
-    "orangutan": {
-        "message": "",
-        "description": "Some orangutans"
-    },
-    "try": {
-        "message": "",
-        "description": "Try Weblate message"
-    },
-    "thanks": {
-        "message": "",
-        "description": "Thanks message"
-    }
+    "hello.message": "Ahoj světe!\n",
+    "hello.description": "Zpráva o slově Hello",
+    "orangutan.message": "",
+    "orangutan.description": "Někteří orangutani",
+    "try.message": "",
+    "try.description": "Zkusit Weblate zprávu",
+    "thanks.message": "",
+    "thanks.description": "Poděkování"
 }
