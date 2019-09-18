@@ -1,8 +1,6 @@
 {
-    "weblate": {
-        "hello": "",
-        "orangutan": "",
-        "try": "",
-        "thanks": ""
-    }
+    "weblate.hello": "Ahoj světe!\n",
+    "weblate.orangutan": "Orangutan má% d banán.\n",
+    "weblate.try": "Zkus Weblate na https://demo.weblate.org/!\n",
+    "weblate.thanks": "Děkujeme za použití Weblate."
 }
